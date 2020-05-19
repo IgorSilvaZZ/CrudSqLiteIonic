@@ -1,0 +1,7 @@
+{
+  "name": "CrudLite",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
